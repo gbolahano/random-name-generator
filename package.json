@@ -1,0 +1,21 @@
+{
+  "name": "random_name_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.1",
+    "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "14.15.1",
+    "npm": "6.14.8"
+  }
+}
